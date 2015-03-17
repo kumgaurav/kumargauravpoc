@@ -1,0 +1,21 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# HEAD detached at fceadc0
+# Changes to be committed:
+#	new file:   build.properties
+#	new file:   build.xml
+#	new file:   codepkg/classes/SampleDeployClass.cls
+#	new file:   codepkg/classes/SampleDeployClass.cls-meta.xml
+#	new file:   codepkg/classes/SampleFailingTestClass.cls
+#	new file:   codepkg/classes/SampleFailingTestClass.cls-meta.xml
+#	new file:   codepkg/package.xml
+#	new file:   codepkg/triggers/SampleAccountTrigger.trigger
+#	new file:   codepkg/triggers/SampleAccountTrigger.trigger-meta.xml
+#	new file:   mypkg/objects/myobj__c.object
+#	new file:   mypkg/package.xml
+#	new file:   removecodepkg/destructiveChanges.xml
+#	new file:   removecodepkg/package.xml
+#	new file:   unpackaged/package.xml
+#
+
